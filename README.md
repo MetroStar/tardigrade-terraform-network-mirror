@@ -52,9 +52,9 @@ platform using the same mirror path.  Using the same mirror path will allow Terr
 
 [0]: https://hashicorp-mirror.cloudarmor.io/list.html
 [1]: https://developer.hashicorp.com/terraform/internals/provider-network-mirror-protocol
-[2]: https://github.com/plus3it/tardigrade-terraform-network-mirror/blob/tf-mirror/Dockerfile.tools
-[3]: https://github.com/plus3it/tardigrade-terraform-network-mirror/blob/tf-mirror/.github/workflows/dependabot_hack.yml
-[4]: https://github.com/plus3it/tardigrade-terraform-network-mirror/blob/tf-mirror/providers/versions.tf
+[2]: https://github.com/MetroStar/tardigrade-terraform-network-mirror/blob/tf-mirror/Dockerfile.tools
+[3]: https://github.com/MetroStar/tardigrade-terraform-network-mirror/blob/tf-mirror/.github/workflows/dependabot_hack.yml
+[4]: https://github.com/MetroStar/tardigrade-terraform-network-mirror/blob/tf-mirror/providers/versions.tf
 [5]: https://hashicorp-mirror.cloudarmor.io/repo/terraform-registry/
 [6]: https://developer.hashicorp.com/terraform/cli/config/config-file
 [8]: https://developer.hashicorp.com/terraform/cli/config/config-file#provider-installation
